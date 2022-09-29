@@ -1,3 +1,10 @@
+/**
+ * Created by: John Hanekom
+ * 
+ * Date: September 29th, 2022
+ * 
+ * This program is a demonstration program for changing variables.
+ */
 let hungriness = 0
 basic.forever(function () {
     if (input.buttonIsPressed(Button.A)) {
