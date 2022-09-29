@@ -3,7 +3,7 @@
  * 
  * Date: September 29th, 2022
  * 
- * This program is a demonstration program for changing variables.
+ * This python program is a demonstration program for changing variables.
  */
 let hungriness = 0
 basic.forever(function () {
